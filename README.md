@@ -15,7 +15,7 @@
   </a>
 </div>
 
-### About me
+### About me:
 
 - 🔭 I’m currently working on Head of the Personnel Training Department at an energy company, but *I'm looking for a job as manual/automation QA engineer*
 - 🌱 I’m currently learning **QA automation (Python)**
@@ -23,4 +23,7 @@
 - 🤔 I’m looking for help with improme my technical skills in QA
 - 📄 Know about my experiences [CV](https://hello3world.github.io/CV_QA-engineer/CV/)
 - 🌍 I speak Russian (native), English (B1)
+
+### ✍️ Blog Posts: 
+- [Ответы на вопросы для самопроверки из книги «Тестирование Дот Ком» Романа Савина](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
  
