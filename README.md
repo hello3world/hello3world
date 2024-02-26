@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>👋 Hi there, I'm  Yauheni </h1>
-    <h3>Junior QA-engineer from Minsk, Belarus</h3>
+    <h3>QA-engineer from Minsk, Belarus</h3>
 </div>
 
 <div id="socials" align="center">
@@ -15,14 +15,17 @@
   </a>
 </div>
 
-### About me:
+###  About me:
 
 - 🔭 I’m currently working on Head of the Personnel Training Department at an energy company, but *I'm looking for a job as manual/automation QA engineer*
-- 🌱 I’m currently learning **QA automation (Python)**
+- 🌱 I’m currently learning **QA automation (Python, JS)**
 - 👯 I’m looking to collaborate on free testing of your products to gain experience
 - 🤔 I’m looking for help with improme my technical skills in QA
-- 📄 Know about my experiences [CV](https://hello3world.github.io/CV_QA-engineer/CV/)
-- 🌍 I speak Russian (native), English (B1)
+- 🌍 I speak Russian (native), English (A2)
+- 📄 Know more about me [CV](https://hello3world.github.io/CV_QA-engineer/CV/)
+
+### 📈 Experience
+- internship from the Hamsters project: _testing trading application ETNA Trader_ (Jan 2024 - present) [git-repo](https://github.com/hello3world/EtnaTrader)
 
 ### ✍️ Blog Posts: 
 - [Ответы на вопросы для самопроверки из книги «Тестирование Дот Ком» Романа Савина](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
