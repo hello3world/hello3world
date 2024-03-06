@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on free testing of your products to gain experience
 - 🤔 I’m looking for help with improme my technical skills in QA
 - 🌍 I speak Russian (native), English (A2)
-- 📄 Know more about me on the **website I developed** [CV](https://hello3world.github.io/CV_QA-engineer/CV/)
+- 📄 Know more about me on the **website I developed** [CV](https://hello3world.github.io/CV_QA-engineer/)
 
 ### 📈 Experience
 - internship from the Hamsters project: _testing trading application ETNA Trader_ (Jan 2024 - present) [git-repo](https://github.com/hello3world/EtnaTrader)
