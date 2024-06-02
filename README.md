@@ -28,11 +28,20 @@
 - development portfolio website | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/Freelancer-portfolio)
 - development landing website Vilosity | stack: HTML, CSS, JS | [git-repo](https://hello3world.github.io/Velocity/) [deploy](https://hello3world.github.io/Freelancer-portfolio/)
 
+### 🚀 My stats
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hello3world&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello3world&layout=compact&theme=buefy&hide_border=true" /></a> |
+</p>
+
+
+
 ## ✍️ Blog Posts: 
 - [Написал свой эпичный резюме-сайт: как это помогает мне расти как QA Engineer](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB-%D1%81%D0%B2%D0%BE%D0%B9-%D1%8D%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-activity-7200510994165456898-_I0T?utm_source=share&utm_medium=member_desktop)
 - [Баг-репорт на LinkedIn](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_bugreport-qa-linkedin-activity-7198788919822282752-Te2j?utm_source=share&utm_medium=member_desktop)
 - [Автоматизация тестирования формы входа на веб-сайт с помощью Selenium на Python](https://www.youtube.com/watch?v=wCXkez_Eqo0), YouTube
 - [Мини-задачи по Python](https://www.youtube.com/@e.pavlovich29/shorts), YouTube
 - [Ответы на вопросы для самопроверки из книги «Тестирование Дот Ком» Романа Савина](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
+
+<img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1200px">
  
 <img src="https://camo.githubusercontent.com/41c0d3b593f8b62ce4c43320b02584f5eca23688f4ea8f1f3cef2cf781e38adf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d6772616469656e7426746578743d436f6d65253230616761696e2126666f6e7453697a653d343026616e696d6174696f6e3d7477696e6b6c696e67" alt="farewell" width="1200px"/>
