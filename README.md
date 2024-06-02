@@ -1,18 +1,14 @@
+<img src="https://camo.githubusercontent.com/3304e0d330e22034c3730a260a63931561c90a9e2a043ab35f482f9a0c12b560/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3235362673656374696f6e3d68656164657226746578743d48656c6c6f253230576f726c642126666f6e7453697a653d373526616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d57656c636f6d65253230746f2532306d7925323047697448756225323070726f66696c652125323050757425323073746172732c253230666f726b253230616e64253230636f6e74726962757465212664657363416c69676e593d35312664657363416c69676e3d3632" alt="Greeting" width="1200px"/>
+
 <div id="header" align="center">
     <h1>👋 Hi there, I'm  Yauheni </h1>
-    <h3>QA Automation Engineer from Minsk, Belarus</h3>
+    <h3>QA Automation Engineer | QA Full Stack Engineer from Minsk, Belarus</h3>
 </div>
 
 <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/yauheni-paulovich-2601b31a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/e_pavlovich" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-<!--     <a href="https://www.instagram.com/e.paulovich/" target="_blank">
-    <img src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a> -->
+<a href="https://www.linkedin.com/in/yauheni-paulovich-2601b31a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:e.pavlovich29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
+<a href="https://t.me/e_pavlovich" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
 
 ##  About me:
