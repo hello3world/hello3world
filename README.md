@@ -7,18 +7,16 @@
 
 <div id="socials" align="center">
 <a href="https://www.linkedin.com/in/yauheni-paulovich-2601b31a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:e.pavlovich29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
+<a href="mailto:e.pavlovich29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
 <a href="https://t.me/e_pavlovich" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
 
-##  About me:
+## 🧐 About me:
 
-- 🔭 I’m currently working on Head of the Personnel Training Department at an energy company, but *I'm looking for a job as Full Stack / Automation QA Engineer*
-- 🌱 I’m currently deeply immersed in studying QA Automation by **(Python)**
-- 👯 I’m looking to collaborate on free testing of your products to gain experience
-- 🤔 I’m looking for help with improme my technical skills in QA Automation
-- 🌍 I speak Russian (native), English (A2)
-- 📄 Know more about me on the **website I developed** [CV](https://hello3world.github.io/CV_QA-engineer/)
+- 🔭 I’m currently looking for a job as *QA Automation Engineer | QA Full Stack Engineer*
+- ⚡ I have a passion for automated testing and application testing tools
+- 🌱 I'm currently deeply immersed in improving my knowledge of Python and automation tools
+- 📄 Know more about me on the **web CV I developed** [CV](https://hello3world.github.io/CV_QA-engineer/)
 
 ## 📈 Experience
 - autotesting online clothing store | stack: Python, Selenium | [git repo](https://github.com/hello3world/saucedemo_autotests) [open site](https://www.saucedemo.com/)
@@ -37,3 +35,4 @@
 - [Мини-задачи по Python](https://www.youtube.com/@e.pavlovich29/shorts), YouTube
 - [Ответы на вопросы для самопроверки из книги «Тестирование Дот Ком» Романа Савина](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
  
+<img src="https://camo.githubusercontent.com/41c0d3b593f8b62ce4c43320b02584f5eca23688f4ea8f1f3cef2cf781e38adf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d6772616469656e7426746578743d436f6d65253230616761696e2126666f6e7453697a653d343026616e696d6174696f6e3d7477696e6b6c696e67" alt="farewell" width="1200px"/>
