@@ -22,6 +22,7 @@
 
 ## 📈 Experience
 ### Testing
+- Test task from company to position "AQA Python" | stack: Python, Selenium | [git repo](https://github.com/hello3world/test_tasks/tree/main/tests)
 - Autotesting online clothing store "Saucedemo" | stack: Python, Selenium | [git repo](https://github.com/hello3world/saucedemo_autotests) [open site](https://www.saucedemo.com/)
 - Internship from the Hamsters project: _testing trading application ETNA Trader_ (Jan 2024 - present) [git-repo](https://github.com/hello3world/EtnaTrader) [open site](https://www.etnasoft.com/etna-trader/)
 - Examples test documentation: [git-repo](https://github.com/hello3world/TestDocumentation)
