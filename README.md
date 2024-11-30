@@ -10,7 +10,7 @@
 </div>
 
 ## 🧐 About me:
-- 🎯 I’m currently looking for a job as *QA Automation Engineer | QA Full Stack Engineer*
+- 🎯 QA Engineer in Devscribed
 - ⚡ I have a passion for automated testing and application testing tools
 - 🌱 I'm currently deeply immersed in improving my knowledge of Python and automation tools
 - 📄 Know more about me on the **web CV I developed** [CV](https://hello3world.github.io/CV_QA-engineer/)
