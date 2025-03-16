@@ -16,7 +16,39 @@
 - 📄 Know more about me on the **web CV I developed** [CV](https://hello3world.github.io/CV_QA-engineer/)
 
 ## My Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🛠 Testing
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-009688?style=for-the-badge) ![Integration Testing](https://img.shields.io/badge/Integration_Testing-009688?style=for-the-badge) ![Load Testing](https://img.shields.io/badge/Load_Testing-009688?style=for-the-badge)  ![Web Testing](https://img.shields.io/badge/Web_Testing-009688?style=for-the-badge) ![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-009688?style=for-the-badge) 
+![Database Testing](https://img.shields.io/badge/Database_Testing-009688?style=for-the-badge) ![API Testing](https://img.shields.io/badge/API_Testing-009688?style=for-the-badge)  
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+
+### 🔧 Testing Tools
+![Playwright](https://img.shields.io/badge/Playwright-45b8d8?style=for-the-badge)  ![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge)  ![Request](https://img.shields.io/badge/Request-FF5722?style=for-the-badge)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)  ![Blazemeter](https://img.shields.io/badge/Blazemeter-EA4C89?style=for-the-badge)  ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge)  ![Fiddler](https://img.shields.io/badge/Fiddler-8C8C8C?style=for-the-badge)  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)  ![BrowserStack](https://img.shields.io/badge/BrowserStack-F26207?style=for-the-badge)  
+
+### 🌐 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)  ![HTTP](https://img.shields.io/badge/HTTP-%23FF9800.svg?style=for-the-badge)  ![Client-Server Architecture](https://img.shields.io/badge/Client_Server_Architecture-607D8B?style=for-the-badge)  
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+### 📝 Documentation
+![Test Plans](https://img.shields.io/badge/Test_Plans-9C27B0?style=for-the-badge)  ![Test Cases](https://img.shields.io/badge/Test_Cases-9C27B0?style=for-the-badge)  ![Checklists](https://img.shields.io/badge/Checklists-9C27B0?style=for-the-badge)  ![Bug Reports](https://img.shields.io/badge/Bug_Reports-9C27B0?style=for-the-badge)  
+
+### 🔄 TMS
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge)  
+
+### 🛠 Version Control & CI/CD
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
+### 💡 IDE
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+
+### 🤖 AI Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6E5494?style=for-the-badge&logo=github&logoColor=white)  
+
+### 📋 Project Management
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)  
 
 ## 📈 Experience
 ### Testing
