@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>👋 I'm  Yauheni </h1>
-    <h3>QA Automation Engineer | QA Full Stack Engineer from Minsk, Belarus</h3>
+    <h3>Full-Stack QA Engineer | QA Automation (Python)</h3>
 </div>
 
 <div id="socials" align="center">
@@ -10,10 +10,10 @@
 </div>
 
 ## 🧐 About me:
-- 🎯 QA Engineer in Devscribed
-- ⚡ I have a passion for automated testing and application testing tools
-- 🌱 I'm currently deeply immersed in improving my knowledge of Python and automation tools
-- 📄 Know more about me on the **web CV I developed** [CV](https://hello3world.github.io/CV_QA-engineer/)
+- 🎯 QA Automation Engineer with experience in functional, integration, database and API testing
+- ⚡ Passionate about automated testing, Python, and testing tools like Playwright and Postman
+- 🌱 Currently improving my skills in Python, automation frameworks and testing methodologies
+- 📚 Experienced in creating test plans, test cases, and documentation with Jira and Zephyr
 
 ## My Stack
 ### 🛠 Testing
@@ -52,10 +52,11 @@
 
 ## 📈 Experience
 ### Testing
-- Online store "Saucedemo" automation project | stack: Python, Selenium | [git repo]( https://github.com/hello3world/studing_test_auto_project_saucedemo)
+- PET-project: automation testing "demoqa.com" | stack: Python, Playwright, Pytest, Requests, CI | [git repo](https://github.com/hello3world/demoqa)
+- Online store "Saucedemo" automation project | stack: Python, Selenium | [git repo](https://github.com/hello3world/studing_test_auto_project_saucedemo)
 - Test task from company to position "AQA Python" | stack: Python, Selenium | [git repo](https://github.com/hello3world/test_tasks/tree/main/tests)
 - Autotesting online clothing store "Saucedemo" | stack: Python, Selenium | [git repo](https://github.com/hello3world/saucedemo_autotests) [open site](https://www.saucedemo.com/)
-- Internship from the Hamsters project: _testing trading application ETNA Trader_ (Jan 2024 - present) [git-repo](https://github.com/hello3world/EtnaTrader) [open site](https://www.etnasoft.com/etna-trader/)
+- Internship from the Hamsters project: testing trading application ETNA Trader (Jan 2024 - present) [git-repo](https://github.com/hello3world/EtnaTrader) [open site](https://www.etnasoft.com/etna-trader/)
 - Examples test documentation: [git-repo](https://github.com/hello3world/TestDocumentation)
 
 ### Base of Frontend
