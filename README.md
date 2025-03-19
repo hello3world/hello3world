@@ -51,7 +51,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)  
 
 ## 📈 Experience
-### Testing
+### Automation Testing
 - PET-project: automation testing "demoqa.com" | stack: Python, Playwright, Pytest, Requests, CI | [git repo](https://github.com/hello3world/demoqa)
 - Online store "Saucedemo" automation project | stack: Python, Selenium | [git repo](https://github.com/hello3world/studing_test_auto_project_saucedemo)
 - Test task from company to position "AQA Python" | stack: Python, Selenium | [git repo](https://github.com/hello3world/test_tasks/tree/main/tests)
