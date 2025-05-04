@@ -59,11 +59,14 @@
 - Internship from the Hamsters project: testing trading application ETNA Trader (Jan 2024 - present) [git-repo](https://github.com/hello3world/EtnaTrader) [open site](https://www.etnasoft.com/etna-trader/)
 - Examples test documentation: [git-repo](https://github.com/hello3world/TestDocumentation)
 
+### Development
+- Developed an English-learning Telegram bot powered by AI tools | stack: Python, Aiogram, PostgreSQL, ChatGPT, Claude, GitHub Copilot | [bot link](https://t.me/LexiGoBot)
+
 ### Base of Frontend
-- Development a virtual keyboard | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/Virtual-Keyboard/tree/gh-pages) [deploy](https://hello3world.github.io/Virtual-Keyboard/)
-- Development landing website Plants | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/plants/tree/gh-pages) [deploy](https://hello3world.github.io/plants/)
-- Development portfolio website | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/Freelancer-portfolio)
-- Development landing website Vilosity | stack: HTML, CSS, JS | [git-repo](https://hello3world.github.io/Velocity/) [deploy](https://hello3world.github.io/Freelancer-portfolio/)
+- Developed a virtual keyboard | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/Virtual-Keyboard/tree/gh-pages) [deploy](https://hello3world.github.io/Virtual-Keyboard/)
+- Developed landing website Plants | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/plants/tree/gh-pages) [deploy](https://hello3world.github.io/plants/)
+- Developed portfolio website | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/Freelancer-portfolio)
+- Developed landing website Vilosity | stack: HTML, CSS, JS | [git-repo](https://hello3world.github.io/Velocity/) [deploy](https://hello3world.github.io/Freelancer-portfolio/)
 
 ## 🚀 My stats
 <p align="center">
