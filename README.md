@@ -60,7 +60,7 @@
 - Examples test documentation: [git-repo](https://github.com/hello3world/TestDocumentation)
 
 ### Development
-- Developed an English-learning Telegram bot powered by AI tools | stack: Python, Aiogram, PostgreSQL, ChatGPT, Claude, GitHub Copilot | [bot link](https://t.me/LexiGoBot)
+- Developed an English-learning Telegram bot LexiGo powered by AI tools | stack: Python, Aiogram, PostgreSQL, ChatGPT, Claude, GitHub Copilot | [bot link](https://t.me/LexiGoBot)
 
 ### Base of Frontend
 - Developed a virtual keyboard | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/Virtual-Keyboard/tree/gh-pages) [deploy](https://hello3world.github.io/Virtual-Keyboard/)
