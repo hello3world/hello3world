@@ -10,10 +10,11 @@
 </div>
 
 ## 🧐 About me:
-- 🎯 QA Automation Engineer with experience in functional, integration, database and API testing
-- ⚡ Passionate about automated testing, Python, and testing tools like Playwright and Postman
-- 🌱 Currently improving my skills in Python, automation frameworks and testing methodologies
-- 📚 Experienced in creating test plans, test cases, and documentation with Jira and Zephyr
+- 🔍 Specializing in test automation — from UI to API, integration to databases
+- ⚙️ Skilled in Playwright, Postman, Python, Pytest, and more
+- 📈 Continuously improving in automation frameworks, CI/CD, and testing methodologies
+- 🛠️ Not just writing tests — building quality strategies: test plans, cases, and documentation (Jira, Zephyr)
+- 💡 Passionate about automating the boring, catching bugs early, and delivering release confidence
 
 ## My Stack
 ### 🛠 Testing
@@ -36,7 +37,8 @@
 ![Test Plans](https://img.shields.io/badge/Test_Plans-9C27B0?style=for-the-badge)  ![Test Cases](https://img.shields.io/badge/Test_Cases-9C27B0?style=for-the-badge)  ![Checklists](https://img.shields.io/badge/Checklists-9C27B0?style=for-the-badge)  ![Bug Reports](https://img.shields.io/badge/Bug_Reports-9C27B0?style=for-the-badge)  
 
 ### 🔄 TMS
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge)  ![TestRail](https://img.shields.io/badge/TestRail-00B0F0?style=for-the-badge)
+  
 
 ### 🛠 Version Control & CI/CD
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
@@ -45,7 +47,9 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 
 ### 🤖 AI Tools
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6E5494?style=for-the-badge&logo=github&logoColor=white)  
+![Cursor](https://img.shields.io/badge/Cursor_IDE-3C2FDE?style=for-the-badge)
+![LM Studio](https://img.shields.io/badge/LM_Studio-5C2D91?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ### 📋 Project Management
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)  
@@ -74,6 +78,8 @@
 </p>
 
 ## ✍️ Blog Posts: 
+- [AI-бот для QA-инженеров: как я сделал Telegram-ассистента для ежедневной прокачки](https://habr.com/ru/articles/927708/)
+- [C помощью AI создал Telegram-бота для изучения английского (Duolingo уже может нервничать)](https://habr.com/ru/articles/907716/)
 - [Написал свой эпичный резюме-сайт: как это помогает мне расти как QA Engineer](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB-%D1%81%D0%B2%D0%BE%D0%B9-%D1%8D%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-activity-7200510994165456898-_I0T?utm_source=share&utm_medium=member_desktop)
 - [Баг-репорт на LinkedIn](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_bugreport-qa-linkedin-activity-7198788919822282752-Te2j?utm_source=share&utm_medium=member_desktop)
 - [Автоматизация тестирования формы входа на веб-сайт с помощью Selenium на Python](https://www.youtube.com/watch?v=wCXkez_Eqo0), YouTube
