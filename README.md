@@ -15,7 +15,6 @@
 - 📈 Continuously improving in automation frameworks, CI/CD, and testing methodologies
 - 🛠️ Not just writing tests — building quality strategies: test plans, cases, and documentation (Jira, Zephyr)
 - 💡 Passionate about automating the boring, catching bugs early, and delivering release confidence
-- 
 
 ## My Stack
 ### 🛠 Testing

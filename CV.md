@@ -15,41 +15,18 @@ Passionate about optimizing testing processes and delivering reliable solutions 
 
 ## SKILLS
 
-### Testing
-- Functional, Integration, Load Testing, Web, Mobile, Database, API Testing
-
-### Programming Languages
-- Python, JavaScript
-
-### Testing Tools
-- Playwright, Selenium, Pytest, Request, Postman, Jmeter, Blazemeter, Chrome DevTools, Fiddler, Swagger, BrowserStack
-
-### Frontend Technologies
-- HTML, CSS, JSON, HTTP, client-server architecture
-
-### Databases
-- PostgreSQL, MySQL, SQLite
-
-### Documentation
-- Test plans, Test cases development, Checklists, Bug reports
-
-### TMS
-- Test Rail, Jira, Zephyr
-
-### Version Control & CI/CD
-- Git, GitHub, Docker
-
-### IDE
-- PyCharm, Visual Studio Code
-
-### AI
-- Cursor, LM Studio, GitHub Copilot
-
-### Project Management
-- Confluence
-
-### Soft Skills
-- Analytical thinking, proactive problem-solving, adaptability, effective communication
+**Testing:** Functional, Integration, Load Testing, Web, Mobile, Database, API Testing  
+**Programming:** Python, JavaScript  
+**Testing Tools:** Playwright, Selenium, Pytest, Request, Postman, JMeter, Blazemeter, Chrome DevTools, Fiddler, Swagger, BrowserStack  
+**Frontend:** HTML, CSS, JSON, HTTP, client-server architecture  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Documentation:** Test plans, Test cases, Checklists, Bug reports  
+**TMS:** TestRail, Jira, Zephyr  
+**Version Control & CI/CD:** Git, GitHub, Docker  
+**IDE:** PyCharm, Visual Studio Code  
+**AI Tools:** Cursor, LM Studio, GitHub Copilot  
+**Project Management:** Confluence  
+**Soft Skills:** Analytical thinking, proactive problem-solving, adaptability, effective communication
 
 ## EXPERIENCE
 
