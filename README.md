@@ -15,6 +15,7 @@
 - 📈 Continuously improving in automation frameworks, CI/CD, and testing methodologies
 - 🛠️ Not just writing tests — building quality strategies: test plans, cases, and documentation (Jira, Zephyr)
 - 💡 Passionate about automating the boring, catching bugs early, and delivering release confidence
+- 
 
 ## My Stack
 ### 🛠 Testing
@@ -85,5 +86,8 @@
 - [Автоматизация тестирования формы входа на веб-сайт с помощью Selenium на Python](https://www.youtube.com/watch?v=wCXkez_Eqo0), YouTube
 - [Мини-задачи по Python](https://www.youtube.com/@e.pavlovich29/shorts), YouTube
 - [Ответы на вопросы для самопроверки из книги «Тестирование Дот Ком» Романа Савина](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
+
+## 📄 Resume
+[![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV.md)
 
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1200px">
