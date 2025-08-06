@@ -1,5 +1,5 @@
 # YAUHENI PAVLOVICH
-**QA Fullstack | QA Automation (Python) | QA Manual**
+**QA Full-stack | Automation (Python) | Manual**
 
 **Location:** Minsk, Belarus  
 **Telegram:** @e_pavlovich
@@ -10,7 +10,6 @@
 
 ## SUMMARY
 Results-driven QA Full-Stack Engineer with two years of experience in manual and automated testing. Skilled in Python-based automation, API testing, and database validation, with a proven ability to enhance software quality.
-
 Passionate about optimizing testing processes and delivering reliable solutions in dynamic environments.
 
 ## SKILLS
