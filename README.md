@@ -87,6 +87,6 @@
 - [Answers to Self-Test Questions from Roman Savin’s “Testing Dot Com”](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
 
 ## 📄 Resume
-[![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV_eng.md)
+[![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV/CV_eng.md)
 
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1200px">
