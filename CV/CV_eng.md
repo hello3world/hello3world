@@ -2,8 +2,8 @@
 **QA Full-stack | Automation (Python) | Manual**
 
 **Location:** Minsk, Belarus  
-**Telegram:** @e_pavlovich
-**Email:** e.pavlovich29@gmail.com  
+**Telegram:** @e_pavlovich  
+**Email:** e.pavlovich29@gmail.com   
 **Phone:** +375 44 586 72 40  
 **GitHub:** https://github.com/hello3world  
 **LinkedIn:** https://www.linkedin.com/in/yauheni-paulovich-2601b31a5/

@@ -78,15 +78,15 @@
 </p>
 
 ## ✍️ Blog Posts: 
-- [AI-бот для QA-инженеров: как я сделал Telegram-ассистента для ежедневной прокачки](https://habr.com/ru/articles/927708/)
-- [C помощью AI создал Telegram-бота для изучения английского (Duolingo уже может нервничать)](https://habr.com/ru/articles/907716/)
-- [Написал свой эпичный резюме-сайт: как это помогает мне расти как QA Engineer](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB-%D1%81%D0%B2%D0%BE%D0%B9-%D1%8D%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-activity-7200510994165456898-_I0T?utm_source=share&utm_medium=member_desktop)
-- [Баг-репорт на LinkedIn](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_bugreport-qa-linkedin-activity-7198788919822282752-Te2j?utm_source=share&utm_medium=member_desktop)
-- [Автоматизация тестирования формы входа на веб-сайт с помощью Selenium на Python](https://www.youtube.com/watch?v=wCXkez_Eqo0), YouTube
-- [Мини-задачи по Python](https://www.youtube.com/@e.pavlovich29/shorts), YouTube
-- [Ответы на вопросы для самопроверки из книги «Тестирование Дот Ком» Романа Савина](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
+- [AI Bot for QA Engineers: How I Built a Telegram Assistant for Daily Skill Drills](https://habr.com/ru/articles/927708/)
+- [Using AI to Create a Telegram Bot for Learning English (Duolingo, You’ve Got Competition)](https://habr.com/ru/articles/907716/)
+- [How I Wrote My Epic Resume Website and Why It Helps Me Grow as a QA Engineer](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB-%D1%81%D0%B2%D0%BE%D0%B9-%D1%8D%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-activity-7200510994165456898-_I0T?utm_source=share&utm_medium=member_desktop)
+- [Bug Report on LinkedIn](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_bugreport-qa-linkedin-activity-7198788919822282752-Te2j?utm_source=share&utm_medium=member_desktop)
+- [Automating Login Form Testing on a Website with Selenium and Python](https://www.youtube.com/watch?v=wCXkez_Eqo0), YouTube
+- [Mini Python Challenges](https://www.youtube.com/@e.pavlovich29/shorts), YouTube
+- [Answers to Self-Test Questions from Roman Savin’s “Testing Dot Com”](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
 
 ## 📄 Resume
-[![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV.md)
+[![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV_eng.md)
 
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1200px">
