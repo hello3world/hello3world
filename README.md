@@ -20,9 +20,9 @@
 [![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV/CV_eng.md)
 
 ## ✍️ Blog Posts: 
-- [Postman + Newman — how to quickly run your tests](https://habr.com/ru/articles/938832/)
-- [Deep Links through the eyes of a tester: how they work](https://habr.com/ru/articles/933900/)
-- [Testing Push Notifications: A Complete Checklist (well, almost)](https://habr.com/ru/articles/946192/)
+- Postman + Newman — how to quickly run your tests [RU](https://habr.com/ru/articles/938832/)
+- Deep Links through the eyes of a tester: how they work [RU](https://habr.com/ru/articles/933900/)
+- Testing Push Notifications: A Complete Checklist (well, almost) [EN](https://medium.com/@e.pavlovich29/push-notifications-testing-a-comprehensive-checklist-for-ios-and-android-fba3799e3152) | [RU](https://habr.com/ru/articles/946192/) 
 - [AI Bot for QA Engineers: How I Built a Telegram Assistant for Daily Skill Drills](https://habr.com/ru/articles/927708/)
 - [Using AI to Create a Telegram Bot for Learning English (Duolingo, You’ve Got Competition)](https://habr.com/ru/articles/907716/)
 - [How I Wrote My Epic Resume Website and Why It Helps Me Grow as a QA Engineer](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB-%D1%81%D0%B2%D0%BE%D0%B9-%D1%8D%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-activity-7200510994165456898-_I0T?utm_source=share&utm_medium=member_desktop)
