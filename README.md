@@ -71,6 +71,8 @@
 - Developed landing website Plants | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/plants/tree/gh-pages) [deploy](https://hello3world.github.io/plants/)
 - Developed portfolio website | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/Freelancer-portfolio)
 - Developed landing website Vilosity | stack: HTML, CSS, JS | [git-repo](https://hello3world.github.io/Velocity/) [deploy](https://hello3world.github.io/Freelancer-portfolio/)
+  #### By using AI
+  - Wood Master Workshop | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/wood_master?tab=readme-ov-file) [deploy](https://hello3world.github.io/wood_master/index.html)
 
 ## 🚀 My stats
 <p align="center">
