@@ -16,6 +16,21 @@
 - 🛠️ Not just writing tests — building quality strategies: test plans, cases, and documentation (Jira, Zephyr)
 - 💡 Passionate about automating the boring, catching bugs early, and delivering release confidence
 
+## 📄 Resume
+[![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV/CV_eng.md)
+
+## ✍️ Blog Posts: 
+- [Postman + Newman — how to quickly run your tests](https://habr.com/ru/articles/938832/)
+- [Deep Links through the eyes of a tester: how they work](https://habr.com/ru/articles/933900/)
+- [Testing Push Notifications: A Complete Checklist (well, almost)](https://habr.com/ru/articles/946192/)
+- [AI Bot for QA Engineers: How I Built a Telegram Assistant for Daily Skill Drills](https://habr.com/ru/articles/927708/)
+- [Using AI to Create a Telegram Bot for Learning English (Duolingo, You’ve Got Competition)](https://habr.com/ru/articles/907716/)
+- [How I Wrote My Epic Resume Website and Why It Helps Me Grow as a QA Engineer](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB-%D1%81%D0%B2%D0%BE%D0%B9-%D1%8D%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-activity-7200510994165456898-_I0T?utm_source=share&utm_medium=member_desktop)
+- [Bug Report on LinkedIn](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_bugreport-qa-linkedin-activity-7198788919822282752-Te2j?utm_source=share&utm_medium=member_desktop)
+- [Automating Login Form Testing on a Website with Selenium and Python](https://www.youtube.com/watch?v=wCXkez_Eqo0), YouTube
+- [Mini Python Challenges](https://www.youtube.com/@e.pavlovich29/shorts), YouTube
+- [Answers to Self-Test Questions from Roman Savin’s “Testing Dot Com”](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
+
 ## My Stack
 ### 🛠 Testing
 ![Functional Testing](https://img.shields.io/badge/Functional_Testing-009688?style=for-the-badge) ![Integration Testing](https://img.shields.io/badge/Integration_Testing-009688?style=for-the-badge) ![Load Testing](https://img.shields.io/badge/Load_Testing-009688?style=for-the-badge)  ![Web Testing](https://img.shields.io/badge/Web_Testing-009688?style=for-the-badge) ![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-009688?style=for-the-badge) 
@@ -78,17 +93,5 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hello3world&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello3world&layout=compact&theme=buefy&hide_border=true" /></a> |
 </p>
-
-## ✍️ Blog Posts: 
-- [AI Bot for QA Engineers: How I Built a Telegram Assistant for Daily Skill Drills](https://habr.com/ru/articles/927708/)
-- [Using AI to Create a Telegram Bot for Learning English (Duolingo, You’ve Got Competition)](https://habr.com/ru/articles/907716/)
-- [How I Wrote My Epic Resume Website and Why It Helps Me Grow as a QA Engineer](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB-%D1%81%D0%B2%D0%BE%D0%B9-%D1%8D%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-activity-7200510994165456898-_I0T?utm_source=share&utm_medium=member_desktop)
-- [Bug Report on LinkedIn](https://www.linkedin.com/posts/yauheni-paulovich-2601b31a5_bugreport-qa-linkedin-activity-7198788919822282752-Te2j?utm_source=share&utm_medium=member_desktop)
-- [Automating Login Form Testing on a Website with Selenium and Python](https://www.youtube.com/watch?v=wCXkez_Eqo0), YouTube
-- [Mini Python Challenges](https://www.youtube.com/@e.pavlovich29/shorts), YouTube
-- [Answers to Self-Test Questions from Roman Savin’s “Testing Dot Com”](https://proglib.io/p/otvety-na-voprosy-dlya-samoproverki-iz-knigi-testirovanie-dot-kom-romana-savina-2023-12-22)
-
-## 📄 Resume
-[![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV/CV_eng.md)
 
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1200px">
