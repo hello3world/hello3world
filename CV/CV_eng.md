@@ -68,11 +68,13 @@ Passionate about optimizing testing processes and delivering reliable solutions 
 - Developed test cases and checklists to optimize the testing process
 
 ## EDUCATION
-- **QA Automation Engineer** — RedRover School, 2024
-- **Python & Selenium Automation** — Stepik, 2024
-- **Load Testing with JMeter** — Stepik, 2024
-- **SQL Interactive Simulator** — Stepik, 2024
-- **Postman for API Testing** — Stepik, 2024
+- **QA Automation Engineer** — RedRover School, 2024 
+- **Test automation using Selenium and Python** — Stepik, 2024 [certificate](https://stepik.org/cert/2674130?lang=en), [certificate](https://stepik.org/cert/2615321?lang=en)
+- **Python programming courses** — Stepik, 2024 [certificate](https://stepik.org/cert/2430014?lang=en), [certificate](https://stepik.org/cert/2543963?lang=en)
+- **Load Testing with JMeter** — Stepik, 2024 [certificate](https://stepik.org/cert/2558373?lang=en)
+- **SQL Interactive Simulator** — Stepik, 2024 [certificate](https://stepik.org/cert/2580864?lang=en)
+- **Postman for API Testing** — Stepik, 2024 [certificate](https://stepik.org/cert/2467656?lang=en)
+- **Sowtware testing from Scratch** - Stepik, 2023 [certificate](https://stepik.org/cert/2234192?lang=en)
 - **Frontend Development** — The Rolling Scopes School, 2023
 - **Master's Degree in Energy Engineering** — Belarusian National Technical University
 
