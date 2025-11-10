@@ -51,12 +51,10 @@
 ### 📝 Documentation
 ![Test Plans](https://img.shields.io/badge/Test_Plans-9C27B0?style=for-the-badge)  ![Test Cases](https://img.shields.io/badge/Test_Cases-9C27B0?style=for-the-badge)  ![Checklists](https://img.shields.io/badge/Checklists-9C27B0?style=for-the-badge)  ![Bug Reports](https://img.shields.io/badge/Bug_Reports-9C27B0?style=for-the-badge)  
 
-### 🔄 TMS
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge)  ![TestRail](https://img.shields.io/badge/TestRail-00B0F0?style=for-the-badge)
-  
-
-### 🛠 Version Control & CI/CD
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+### ⚙️ CI/CD & Version Control
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 💡 IDE
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
@@ -66,8 +64,11 @@
 ![LM Studio](https://img.shields.io/badge/LM_Studio-5C2D91?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white) 
 
-### 📋 Project Management
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)  
+### 🧭 Documentation & TMS
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge)
+![TestRail](https://img.shields.io/badge/TestRail-00B0F0?style=for-the-badge)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ## 📈 Experience
 ### Automation Testing
