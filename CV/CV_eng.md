@@ -1,88 +1,115 @@
-# YAUHENI PAVLOVICH
-**QA Full-stack | Automation (Python) | Manual**
+# Yauheni Paulovich  
+**QA Fullstack | Automation (Python) | Manual**
 
 **Location:** Minsk, Belarus  
-**Telegram:** @e_pavlovich  
-**Email:** e.pavlovich29@gmail.com   
 **Phone:** +375 44 586 72 40  
-**GitHub:** https://github.com/hello3world  
-**LinkedIn:** https://www.linkedin.com/in/yauheni-paulovich-2601b31a5/
+**Email:** [e.pavlovich29@gmail.com](mailto:e.pavlovich29@gmail.com)  
+**Telegram:** [@e_pavlovich](https://t.me/e_pavlovich)  
+**GitHub:** [hello3world](https://github.com/hello3world)  
+**LinkedIn:** [Yauheni Paulovich](https://www.linkedin.com/in/yauheni-paulovich-2601b31a5/)
 
-## SUMMARY
-Results-driven QA Full-Stack Engineer with two years of experience in manual and automated testing. Skilled in Python-based automation, API testing, and database validation, with a proven ability to enhance software quality.
-Passionate about optimizing testing processes and delivering reliable solutions in dynamic environments.
+---
 
-## SKILLS
+## Summary
+Full-Stack QA Engineer with 2 years of experience in manual and automated testing.  
+Specializing in test automation using Python, API testing, and database validation.  
+Passionate about continuous improvement in testing processes and tools, with a strong focus on quickly applying new knowledge in practice.
 
-**Testing:** Functional, Integration, Load Testing, Web, Mobile, Database, API Testing  
-**Programming:** Python, JavaScript  
-**Testing Tools:** Playwright, Selenium, Pytest, Request, Postman, JMeter, Blazemeter, Chrome DevTools, Fiddler, Swagger, BrowserStack  
-**Frontend:** HTML, CSS, JSON, HTTP, client-server architecture  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**Documentation:** Test plans, Test cases, Checklists, Bug reports  
+---
+
+## Skills
+
+**Testing:** Functional, Integration, Performance, Web, Mobile, Database, API  
+**Programming Languages:** Python, JavaScript  
+**Testing Tools:** Playwright, Selenium, Pytest, JMeter, BlazeMeter, Chrome DevTools, Fiddler, Charles Proxy, BrowserStack, Sentry  
+**API Testing:** Postman, Requests (Python), Swagger  
+**Databases:** SQL, PostgreSQL, MySQL, SQLite  
+**Frontend:** HTML, CSS, JSON, HTTP, WebSocket  
+**Documentation:** Test Plans, Test Cases, Checklists, Bug Reports  
 **TMS:** TestRail, Jira, Zephyr  
-**Version Control & CI/CD:** Git, GitHub, Docker  
-**IDE:** PyCharm, Visual Studio Code  
-**AI Tools:** Cursor, LM Studio, GitHub Copilot  
+**Version Control / CI/CD:** Git, GitHub, Docker, Jenkins, GitHub Actions  
+**AI Tools:** IDE AI Agents, AI APIs  
 **Project Management:** Confluence  
-**Soft Skills:** Analytical thinking, proactive problem-solving, adaptability, effective communication
+**Soft Skills:** Analytical Thinking, Proactivity, Adaptability, Effective Communication
 
-## EXPERIENCE
+---
 
-### QA Full-Stack Engineer
-**Devscribed** | Nov 2024 – current (remote)
+## Experience
 
-#### Event Management Platform & Subscription Sales CRM (Web, Backend, Mobile)
-*A SaaS platform for event organizers to manage registrations, payments, and customer relationships.*
+### QA Full-Stack Engineer — Devscribed  
+**Nov 2024 – Present (Remote)**
 
-- Developed 30+ frontend automated tests using Playwright and Python, reducing smoke testing time by 25%
-- Conducted external integration testing with payment systems (Stripe), authentication services (Frontegg), and Zapier, ensuring seamless third-party functionality
-- Performed regression testing (300+ test cases), achieving zero major and critical defects in production releases
-- Executed database testing using SQL queries to validate data integrity across PostgreSQL tables
-- Created and updated customer documentation, improving user onboarding by 15%
-- Conducted compatibility testing across Mac, Windows, Web, Mobile, and browsers (Safari, Chrome, Firefox)
+#### Sports Training & Nutrition App (Mobile / Backend / Web — 50% / 30% / 20%)
+A mobile app offering personalized training plans and nutrition tracking for athletes.
 
-#### Sports Training & Nutrition App (Mobile, Backend, Web)
-*A mobile app offering personalized training plans and nutrition tracking for athletes.*
+**Responsibilities:**
+- Performed regression testing (functional & non-functional) — maintained and ran 800+ test cases  
+- Conducted integration testing of external services: payment systems (Stripe), e-commerce (Shopify), analytics (Mixpanel)  
+- Automated API testing in Postman  
+- Validated data in PostgreSQL and generated test data via Python scripts  
+- Tested mobile apps on iOS and Android  
+- Built advanced GUI/mobile test automation using Playwright / Appium + Python  
 
-- Performed functional and integration testing, identifying and resolving 10+ critical bugs pre-launch
-- Conducted back-end API testing using Swagger and Postman, ensuring API endpoints met performance benchmarks
-- Executed database testing using SQL queries to validate data in PostgreSQL tables
-- Conducted mobile testing for iOS and Android, ensuring consistent user experience across devices
+**Key Achievements:**
+- Reduced time to verify new features by 40% through API test automation  
+- Decreased regression testing time by 20% via dynamic data generation (Python + DB)  
+- Achieved zero critical bugs in production  
 
-### QA Automation Engineer (Team Lead, Students' Group)
-**RedRover School Internship** | Jan 2024 – current (remote)
+#### Event Management Platform & Subscription Sales CRM (Mobile / Backend / Web — 10% / 30% / 60%)
+A SaaS platform for event organizers to manage registrations, payments, and customer relationships.
 
-- Developed and executed automated tests using Selenium and Python for functional and integration testing of web applications
-- Created and ran smoke tests for core business functionalities of an online store, ensuring stability in key processes
-- Designed and executed load tests using JMeter, including reporting and analyzing results
-- Conducted API testing with Postman, validating RESTful services for functionality and performance
-- Wrote and executed SQL queries for database validation and created comprehensive test cases
+**Responsibilities:**
+- Developed E2E GUI automated tests with Playwright + Python  
+- Integrated automated tests into CI pipelines (GitHub Actions)  
+- Performed integration testing with external services: payments (Stripe), authentication (Frontegg), workflow automation (Zapier)  
+- Executed regression testing — 300+ test cases; cross-browser and cross-platform testing (macOS, Windows, Safari/Chrome)  
+- Validated data in PostgreSQL using SQL queries  
 
-### QA Engineer
-**Volunteer Project** | Jan 2024 – Jun 2024
+**Key Achievements:**
+- Reduced smoke testing time by 25% by introducing automated tests  
+- Ensured release stability — no major production incidents  
+- Improved client onboarding through better documentation  
 
-- Conducted exploratory testing of the "ETNA Lite" mobile app (Android) and "ETNA Trader" web platform
-- Tested core features and ensured usability across different devices and screen resolutions
-- Created detailed bug reports with reproduction steps and improvement suggestions
-- Developed test cases and checklists to optimize the testing process
+---
 
-## EDUCATION
-- **QA Automation Engineer** — RedRover School, 2024 
-- **Test automation using Selenium and Python** — Stepik, 2024 [certificate](https://stepik.org/cert/2674130?lang=en), [certificate](https://stepik.org/cert/2615321?lang=en)
-- **Python programming courses** — Stepik, 2024 [certificate](https://stepik.org/cert/2430014?lang=en), [certificate](https://stepik.org/cert/2543963?lang=en)
-- **Load Testing with JMeter** — Stepik, 2024 [certificate](https://stepik.org/cert/2558373?lang=en)
-- **SQL Interactive Simulator** — Stepik, 2024 [certificate](https://stepik.org/cert/2580864?lang=en)
-- **Postman for API Testing** — Stepik, 2024 [certificate](https://stepik.org/cert/2467656?lang=en)
-- **Sowtware testing from Scratch** - Stepik, 2023 [certificate](https://stepik.org/cert/2234192?lang=en)
-- **Frontend Development** — The Rolling Scopes School, 2023
-- **Master's Degree in Energy Engineering** — Belarusian National Technical University
+### QA Automation Engineer — RedRover School Internship  
+**Jan 2024 – June 2024**  
+**Role:** Team Lead (Students' Group)
 
-## LANGUAGES
-- **English:** B1 (currently taking courses to improve proficiency)
-- **Russian:** Native
+- Developed automated tests in Python and Selenium for web functional & integration testing  
+- Set up performance testing with JMeter; performed analysis and reporting  
+- Conducted API testing using Postman  
 
-## HOBBIES
-- Telegram channel
-- Codewars (solved 130+ kata)
-- Following IT-related YouTube educational channels
+---
+
+### QA Engineer — Volunteer Project  
+**Jan 2024 – Apr 2024**
+
+- Exploratory testing of Android app “ETNA Lite” and web platform “ETNA Trader”  
+- Conducted functional testing; created bug reports and checklists  
+
+---
+
+## Education
+
+- Postman: The Complete Guide - REST API Testing — Udemy, 2025  [certificate](https://www.udemy.com/certificate/UC-ec68e6e1-3865-4687-8542-e08a00a13a60/)
+- QA Automation Engineer — RedRover School, 2024  
+- Selenium + Python Automation — Stepik, 2024  [certificate](https://stepik.org/cert/2674130?lang=en), [certificate](https://stepik.org/cert/2615321?lang=en)
+- Python Programming Courses — Stepik, 2024  [certificate](https://stepik.org/cert/2430014?lang=en), [certificate](https://stepik.org/cert/2543963?lang=en)
+- Load Testing with JMeter — Stepik, 2024  [certificate](https://stepik.org/cert/2558373?lang=en)
+- SQL Interactive Simulator — Stepik, 2024  [certificate](https://stepik.org/cert/2580864?lang=en)
+- Postman for API Testing — Stepik, 2024  [certificate](https://stepik.org/cert/2467656?lang=en)
+- Software Testing from Scratch — Stepik, 2023  [certificate](https://stepik.org/cert/2234192?lang=en)
+- Frontend Development — The Rolling Scopes School, 2023  [certificate](https://app.rs.school/certificate/bcs5auvf)
+- Master’s Degree in Energy Engineering — Belarusian National Technical University  
+
+---
+
+## Languages
+- English: B1  
+- Russian: Native  
+
+---
+
+## Hobbies
+I write articles on Habr, run a Telegram channel for QA with a focus on AI, solve coding challenges on Codewars (130+ kata), develop AI-based pet projects, travel, and create educational content on YouTube.
