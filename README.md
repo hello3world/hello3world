@@ -10,11 +10,11 @@
 </div>
 
 ## 🧐 About me:
-- 🔍 Specializing in test automation — from UI to API, integration to databases
-- ⚙️ Skilled in Playwright, Postman, Python, Pytest, and more
-- 📈 Continuously improving in automation frameworks, CI/CD, and testing methodologies
-- 🛠️ Not just writing tests — building quality strategies: test plans, cases, and documentation (Jira, Zephyr)
-- 💡 Passionate about automating the boring, catching bugs early, and delivering release confidence
+- 🔍 Full-Stack QA Engineer with 2+ years of experience (manual + automation)
+- ⚙️ Automating tests with **Python, Playwright, Selenium, Pytest, Postman**
+- 📈 Focused on **API testing, CI/CD integration**, and **data-driven QA**
+- 🤖 Exploring **AI tools** to optimize test workflows and documentation
+- 💬 Writing on **Habr**, sharing QA insights and automation practices
 
 ## 📄 Resume
 [![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV/CV_eng.md)
