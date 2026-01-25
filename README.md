@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>👋 I'm  Yauheni </h1>
-    <h3>Full-Stack QA Engineer | QA Automation (Python)</h3>
+    <h3>QA Fullstack | Automation (Python) | Manual</h3>
 </div>
 
 <div id="socials" align="center">
@@ -20,6 +20,8 @@
 [![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV/CV_eng.md)
 
 ## ✍️ Blog Posts: 
+- Built my own AI ecosystem to break the English silence. Stop just ‘understanding’ — start speaking [RU](https://habr.com/ru/articles/978300/).
+- How to Start Testing In-App Purchases on Android [RU](https://habr.com/ru/articles/930204/)
 - Postman + Newman — how to quickly run your tests [RU](https://habr.com/ru/articles/938832/)
 - Deep Links through the eyes of a tester: how they work [RU](https://habr.com/ru/articles/933900/)
 - Testing Push Notifications: A Complete Checklist (well, almost) [EN](https://medium.com/@e.pavlovich29/push-notifications-testing-a-comprehensive-checklist-for-ios-and-android-fba3799e3152) | [RU](https://habr.com/ru/articles/946192/) 
