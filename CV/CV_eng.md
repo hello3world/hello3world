@@ -11,26 +11,24 @@
 ---
 
 ## Summary
-Full-Stack QA Engineer with 2 years of experience in manual and automated testing.  
-Specializing in test automation using Python, API testing, and database validation.  
-Passionate about continuous improvement in testing processes and tools, with a strong focus on quickly applying new knowledge in practice.
+QA Full-Stack Engineer with 2+ years of experience. Specializing in Python-based automation (Pytest, Playwright), API testing, and database testing. Proactive in enhancing QA processes through an AI-driven approach: integrating AI APIs to boost team productivity and automate repetitive tasks. Focused on delivering high-quality software while aligning technical solutions with business goals.
 
 ---
 
 ## Skills
 
-**Testing:** Functional, Integration, Performance, Web, Mobile, Database, API  
-**Programming Languages:** Python, JavaScript  
-**Testing Tools:** Playwright, Selenium, Pytest, JMeter, BlazeMeter, Chrome DevTools, Fiddler, Charles Proxy, BrowserStack, Sentry  
-**API Testing:** Postman, Requests (Python), Swagger  
-**Databases:** SQL, PostgreSQL, MySQL, SQLite  
-**Frontend:** HTML, CSS, JSON, HTTP, WebSocket  
-**Documentation:** Test Plans, Test Cases, Checklists, Bug Reports  
-**TMS:** TestRail, Jira, Zephyr  
-**Version Control / CI/CD:** Git, GitHub, Docker, Jenkins, GitHub Actions  
-**AI Tools:** IDE AI Agents, AI APIs  
-**Project Management:** Confluence  
-**Soft Skills:** Analytical Thinking, Proactivity, Adaptability, Effective Communication
+- **Testing:** functional, integration, performance, web, mobile, database, API  
+- **Programming Languages:** Python, JavaScript  
+- **Testing Tools:** Playwright, Selenium, Pytest, JMeter, BlazeMeter, Chrome DevTools, Fiddler, Charles Proxy, BrowserStack, Sentry  
+- **API Testing:** Postman, Requests (Python), Swagger  
+- **Databases:** SQL, PostgreSQL, MySQL, SQLite  
+- **Frontend Technologies:** HTML, CSS, JSON, HTTP, WebSocket  
+- **Documentation:** test plans, test cases, checklists, bug reports  
+- **TMS:** TestRail, Jira, Zephyr  
+- **Version Control / Containerization / CI/CD:** Git, GitHub, Docker, Jenkins, GitHub Actions  
+- **AI Tools:** GitHub Copilot, Cursor, AI API integration, AI-driven test data generation  
+- **Project Management:** Confluence  
+- **Soft Skills:** analytical thinking, proactivity, adaptability, effective communication
 
 ---
 
@@ -40,10 +38,10 @@ Passionate about continuous improvement in testing processes and tools, with a s
 **Nov 2024 – Present (Remote)**
 
 #### Sports Training & Nutrition App (Mobile / Backend / Web — 50% / 30% / 20%)
-A mobile app offering personalized training plans and nutrition tracking for athletes.
+"A mobile app offering personalized training plans and nutrition tracking for athletes."
 
 **Responsibilities:**
-- Performed regression testing (functional & non-functional) — maintained and ran 800+ test cases  
+- Optimized and maintained the regression test suite (1000+ test cases), ensuring stable releases for mobile and web platforms  
 - Conducted integration testing of external services: payment systems (Stripe), e-commerce (Shopify), analytics (Mixpanel)  
 - Automated API testing in Postman  
 - Validated data in PostgreSQL and generated test data via Python scripts  
@@ -51,12 +49,12 @@ A mobile app offering personalized training plans and nutrition tracking for ath
 - Built advanced GUI/mobile test automation using Playwright / Appium + Python  
 
 **Key Achievements:**
-- Reduced time to verify new features by 40% through API test automation  
-- Decreased regression testing time by 20% via dynamic data generation (Python + DB)  
-- Achieved zero critical bugs in production  
+- Reduced time to verify new features by 40% through API test automation in Postman  
+- Decreased regression testing time by 20% by dynamically generating test data in the database with Python scripts  
+- Achieved zero critical bugs in production during tenure  
 
 #### Event Management Platform & Subscription Sales CRM (Mobile / Backend / Web — 10% / 30% / 60%)
-A SaaS platform for event organizers to manage registrations, payments, and customer relationships.
+"A SaaS platform for event organizers to manage registrations, payments, and customer relationships."
 
 **Responsibilities:**
 - Developed E2E GUI automated tests with Playwright + Python  
@@ -68,7 +66,7 @@ A SaaS platform for event organizers to manage registrations, payments, and cust
 **Key Achievements:**
 - Reduced smoke testing time by 25% by introducing automated tests  
 - Ensured release stability — no major production incidents  
-- Improved client onboarding through better documentation  
+- Improved client onboarding by creating targeted documentation  
 
 ---
 
@@ -76,17 +74,17 @@ A SaaS platform for event organizers to manage registrations, payments, and cust
 **Jan 2024 – June 2024**  
 **Role:** Team Lead (Students' Group)
 
-- Developed automated tests in Python and Selenium for web functional & integration testing  
+- Developed automated tests in Python and Selenium for functional and integration testing of web applications  
 - Set up performance testing with JMeter; performed analysis and reporting  
-- Conducted API testing using Postman  
+- Performed API testing in Postman  
 
 ---
 
 ### QA Engineer — Volunteer Project  
 **Jan 2024 – Apr 2024**
 
-- Exploratory testing of Android app “ETNA Lite” and web platform “ETNA Trader”  
-- Conducted functional testing; created bug reports and checklists  
+- Exploratory testing of the Android app "ETNA Lite" and the web platform "ETNA Trader"  
+- Conducted functional testing; authored bug reports and checklists  
 
 ---
 
@@ -105,11 +103,15 @@ A SaaS platform for event organizers to manage registrations, payments, and cust
 
 ---
 
-## Languages
-- English: B1  
-- Russian: Native  
+## Publications & Projects
+
+- **Habr Author:** Wrote in-depth technical articles on In-App Purchases testing, Deep Links, Push Notifications, and Postman + Newman automation  
+- **AI Ecosystem:** Developed an AI-bot ecosystem to facilitate English language learning for tech professionals (using Python & AI APIs)  
+- **Telegram Channel:** Built an AI-driven automated bot for curated QA content delivery  
 
 ---
 
-## Hobbies
-I write articles on Habr, run a Telegram channel for QA with a focus on AI, solve coding challenges on Codewars (130+ kata), develop AI-based pet projects, travel, and create educational content on YouTube.
+## Languages
+
+- English: B1  
+- Russian: Native
