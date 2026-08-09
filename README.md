@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>👋 I'm  Yauheni </h1>
-    <h3>QA Fullstack | Automation (Python) | Manual</h3>
+    <h3>Full-Stack QA Engineer (Python) | Automation | API | Firmware & Embedded | QA Tooling</h3>
 </div>
 
 <div id="socials" align="center">
@@ -10,11 +10,20 @@
 </div>
 
 ## 🧐 About me:
-- 🔍 Full-Stack QA Engineer with 2+ years of experience (manual + automation)
-- ⚙️ Automating tests with **Python, Playwright, Selenium, Pytest, Postman**
-- 📈 Focused on **API testing, CI/CD integration**, and **data-driven QA**
-- 🤖 Exploring **AI tools** to optimize test workflows and documentation
-- 💬 Writing on **Habr**, sharing QA insights and automation practices
+- Full-Stack QA Engineer with 2+ years of commercial experience in manual and automated testing of Web, Mobile, Backend, and hardware-integrated systems.
+- I specialize in Python test automation, API/backend testing, databases, network traffic analysis, and firmware/embedded integration testing.
+- I also build internal QA tools and use AI to automate repetitive engineering tasks and improve QA workflows.
+
+## 🛠️ What I Do:
+- Functional, Integration, Regression, E2E, Web, Mobile, API and Database Testing
+- Test Automation with Python, Pytest, Playwright, Selenium and Appium
+- API & Backend Testing with Postman, Requests, HTTPX, REST API
+- Network & Traffic Analysis with HTTP/HTTPS, WebSocket, TCP/IP, mitmproxy, Charles Proxy
+- Firmware & Embedded Integration Testing
+- Database Testing with PostgreSQL, MySQL, SQLite and SQL
+- CI/CD with GitHub Actions and Jenkins
+- QA Tooling and custom test utilities
+- AI-assisted QA and engineering workflows using Ollama, AI APIs and AI sub-agents
 
 ## 📄 Resume
 [![CV](https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hello3world/hello3world/blob/main/CV/CV_eng.md)
@@ -35,42 +44,50 @@
 
 ## My Stack
 ### 🛠 Testing
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-009688?style=for-the-badge) ![Integration Testing](https://img.shields.io/badge/Integration_Testing-009688?style=for-the-badge) ![Load Testing](https://img.shields.io/badge/Load_Testing-009688?style=for-the-badge)  ![Web Testing](https://img.shields.io/badge/Web_Testing-009688?style=for-the-badge) ![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-009688?style=for-the-badge) 
-![Database Testing](https://img.shields.io/badge/Database_Testing-009688?style=for-the-badge) ![API Testing](https://img.shields.io/badge/API_Testing-009688?style=for-the-badge)  
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-009688?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-009688?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-009688?style=for-the-badge)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-009688?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-009688?style=for-the-badge)
+![Database Testing](https://img.shields.io/badge/Database_Testing-009688?style=for-the-badge)
+![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-009688?style=for-the-badge)
+![Firmware Testing](https://img.shields.io/badge/Firmware_Testing-009688?style=for-the-badge)
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+### 💻 Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
+![HTTPX](https://img.shields.io/badge/HTTPX-20232A?style=for-the-badge)
 
-### 🔧 Testing Tools
-![Playwright](https://img.shields.io/badge/Playwright-45b8d8?style=for-the-badge)  ![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge)  ![Request](https://img.shields.io/badge/Request-FF5722?style=for-the-badge)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)  ![Blazemeter](https://img.shields.io/badge/Blazemeter-EA4C89?style=for-the-badge)  ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge)  ![Fiddler](https://img.shields.io/badge/Fiddler-8C8C8C?style=for-the-badge)  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)  ![BrowserStack](https://img.shields.io/badge/BrowserStack-F26207?style=for-the-badge)  
-
-### 🌐 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)  ![HTTP](https://img.shields.io/badge/HTTP-%23FF9800.svg?style=for-the-badge)  ![Client-Server Architecture](https://img.shields.io/badge/Client_Server_Architecture-607D8B?style=for-the-badge)  
+### 🌐 API & Networking
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-009688?style=for-the-badge)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-009688?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-009688?style=for-the-badge)
+![mitmproxy](https://img.shields.io/badge/mitmproxy-FF6F00?style=for-the-badge)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-8E44AD?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-009688?style=for-the-badge)
 
-### 📝 Documentation
-![Test Plans](https://img.shields.io/badge/Test_Plans-9C27B0?style=for-the-badge)  ![Test Cases](https://img.shields.io/badge/Test_Cases-9C27B0?style=for-the-badge)  ![Checklists](https://img.shields.io/badge/Checklists-9C27B0?style=for-the-badge)  ![Bug Reports](https://img.shields.io/badge/Bug_Reports-9C27B0?style=for-the-badge)  
-
-### ⚙️ CI/CD & Version Control
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🚀 CI/CD & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 💡 IDE
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-
-### 🤖 AI Tools
-![Cursor](https://img.shields.io/badge/Cursor_IDE-3C2FDE?style=for-the-badge)
-![LM Studio](https://img.shields.io/badge/LM_Studio-5C2D91?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white) 
-
-### 🧭 Documentation & TMS
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge)
-![TestRail](https://img.shields.io/badge/TestRail-00B0F0?style=for-the-badge)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+### 🤖 AI
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![AI API](https://img.shields.io/badge/AI_APIs-412991?style=for-the-badge)
+![AI Sub-agents](https://img.shields.io/badge/AI_Sub--agents-412991?style=for-the-badge)
 
 ## 📈 Experience
 ### Automation Testing
@@ -89,12 +106,12 @@
 - Developed landing website Plants | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/plants/tree/gh-pages) [deploy](https://hello3world.github.io/plants/)
 - Developed portfolio website | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/Freelancer-portfolio)
 - Developed landing website Vilosity | stack: HTML, CSS, JS | [git-repo](https://hello3world.github.io/Velocity/) [deploy](https://hello3world.github.io/Freelancer-portfolio/)
-  #### By using AI
+#### By using AI
   - Wood Master Workshop | stack: HTML, CSS, JS | [git-repo](https://github.com/hello3world/wood_master?tab=readme-ov-file) [deploy](https://hello3world.github.io/wood_master/index.html)
 
 ## 🚀 My stats
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hello3world&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello3world&layout=compact&theme=buefy&hide_border=true" /></a> |
+  <img src="https://github-readme-stats.shion.dev/api?username=hello3world&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="1200px">
