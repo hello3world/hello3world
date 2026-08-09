@@ -1,5 +1,5 @@
 # Yauheni Paulovich  
-**QA Fullstack | Automation (Python) | Manual**
+****Full-Stack QA Engineer (Python) | Automation | API | Firmware & Embedded | QA Tooling****
 
 **Location:** Minsk, Belarus  
 **Phone:** +375 44 586 72 40  
@@ -11,31 +11,57 @@
 ---
 
 ## Summary
-QA Full-Stack Engineer with 2+ years of experience. Specializing in Python-based automation (Pytest, Playwright), API testing, and database testing. Proactive in enhancing QA processes through an AI-driven approach: integrating AI APIs to boost team productivity and automate repetitive tasks. Focused on delivering high-quality software while aligning technical solutions with business goals.
+Hi! I’m Yauheni Paulovich, a Full-Stack QA Engineer with 2+ years of experience in manual and automated testing.
+I specialize in Python-based test automation, API and database testing, network traffic analysis, firmware/embedded integration testing, and QA tooling. I enjoy working closely with product and engineering teams: not only finding bugs, but also improving the tools and processes used to build and test software.
 
----
+**AI-Driven QA & Tooling**
+
+I actively build and experiment with AI-powered tools to improve QA and engineering workflows: from test case generation and test data preparation to execution, analysis, and reporting.
+I work with local AI models through Ollama, AI APIs, AI-assisted development environments, and custom AI sub-agents designed to automate repetitive engineering tasks across the SDLC.
 
 ## Skills
-
-- **Testing:** functional, integration, performance, web, mobile, database, API  
-- **Programming Languages:** Python, JavaScript  
-- **Testing Tools:** Playwright, Selenium, Pytest, JMeter, BlazeMeter, Chrome DevTools, Fiddler, Charles Proxy, BrowserStack, Sentry  
-- **API Testing:** Postman, Requests (Python), Swagger  
-- **Databases:** SQL, PostgreSQL, MySQL, SQLite  
-- **Frontend Technologies:** HTML, CSS, JSON, HTTP, WebSocket  
-- **Documentation:** test plans, test cases, checklists, bug reports  
-- **TMS:** TestRail, Jira, Zephyr  
-- **Version Control / Containerization / CI/CD:** Git, GitHub, Docker, Jenkins, GitHub Actions  
-- **AI Tools:** GitHub Copilot, Cursor, AI API integration, AI-driven test data generation  
-- **Project Management:** Confluence  
-- **Soft Skills:** analytical thinking, proactivity, adaptability, effective communication
+- **Testing**: Functional, Integration, Regression, E2E, Web, Mobile, API, UI, Database, Load, Firmware & Embedded Integration Testing
+- **Automation**: Python, Pytest, Playwright, Selenium, Requests, HTTPX, Allure, JavaScript
+- **API Testing**: REST API, Postman, Swagger/OpenAPI
+- **Networking & Traffic Analysis**: HTTP/HTTPS, WebSocket, TCP/IP, Chrome DevTools, Charles Proxy, mitmproxy, Fiddler, Netcat
+- **Database**: PostgreSQL, MySQL, SQLite, SQL queries, test data generation, Python validation scripts
+- **Performance Testing**: JMeter, BlazeMeter
+- **AI & Developer Productivity**: Ollama, AI APIs, AI-assisted IDEs, custom AI tooling, AI sub-agents
+- **CI/CD & Version Control**: Git, GitHub, GitHub Actions, Jenkins
+- **Infrastructure**: Docker, Linux, Bash, Railway
+- **Test & Project Management**: Jira, TestRail, Zephyr, Confluence, Qase, Redmine
+- **Documentation**: Test Plans, Test Cases, Checklists, Bug Reports, Onboarding Guides
 
 ---
 
 ## Experience
 
+### QA Full-Stack Engineer — BiXBiT  
+**Feb 2026 – Present**
+
+#### AMS (Automated Monitoring System) & Firmware integration (Web / Backend / IoT firmware - 40% / 40% / 20%)
+Cloud platform for real-time monitoring and remote management of ASIC devices, along with custom firmware for Antminer and Whatsminer hardware.
+
+**Responsibilities & Achievements**:
+API Test Automation for AMS using Python (Pytest): developing new modules and maintaining the existing framework.
+Development & Maintenance of a specialized Python library for automated testing and interaction with miner firmware APIs.
+Comprehensive testing (UI, API, DB) of the AMS web platform.
+Tooling Development: built (using AI) a CLI/desktop helper application for firmware API interaction, eliminating manual terminal work.
+Debugging tools customization: developed a custom Mitmproxy addon to intercept, modify, and mock HTTP/WebSocket requests and responses.
+E2E & Manual testing of Antminer and Whatsminer firmware integration with AMS (including firmware installation verification, telemetry transmission, and control commands).
+UI/UX testing during design reviews, along with creating and maintaining test documentation (checklists, test cases, coverage matrices).
+
+#### Hub & Multi-Vendor mining hardware (Backend / IoT Hardware / Web - 40% / 50% / 10%)
+Network service (Hub) for auto-scanning local networks, discovering, and integrating third-party ASIC devices (Avalon, Whatsminer, Antminer, Seal, etc.) into AMS.
+
+**Responsibilities**:
+Network scanning & Auto-discovery testing: verifying local network device discovery and automated binding to AMS.
+Integration testing of the Hub service with third-party mining hardware.
+Parsing mechanism testing: validating data parsing and accurate telemetry, status, and metric delivery from third-party miners to AMS via Hub.
+Network settings validation: testing communication protocols and data retrieval methods (via HTTP API and TCP/CLI nc commands).
+
 ### QA Full-Stack Engineer — Devscribed  
-**Nov 2024 – Present (Remote)**
+**Nov 2024 – Jan 2026**
 
 #### Sports Training & Nutrition App (Mobile / Backend / Web — 50% / 30% / 20%)
 "A mobile app offering personalized training plans and nutrition tracking for athletes."
